@@ -30,6 +30,7 @@ Check all the filtering and sorting available.
 
 
 # Create CLOB client and get/set API credentials
+```
 client = ClobClient(
     HOST,
     key=KEY,
